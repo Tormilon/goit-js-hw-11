@@ -10,7 +10,7 @@ Notiflix.Notify.init({
 });
 import 'notiflix/dist/notiflix-3.2.5.min.css';
 
-const PIXABAY_KEY = '13063741-5515a23bced967f7d7ac2fd10';
+const PIXABAY_KEY = '31612484-3202b48e0c1e89b75be8b4f88';
 const IMAGE_TYPE = 'photo';
 const ORIENTATION = 'horizontal';
 const SAFESEARCH = true;
